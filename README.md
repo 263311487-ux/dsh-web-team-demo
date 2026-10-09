@@ -1,5 +1,9 @@
 # DSH Team Demo
 
+**Project role: demonstration / 演示项目.** This small page is retained as a browser-interaction example. For maintained browser acceptance tooling, see [dsh-verify](https://github.com/263311487-ux/dsh-verify); for the full project index, see [the portfolio catalog](https://github.com/263311487-ux/263311487-ux/blob/main/CATALOG.md).
+
+This page is not a separate production product or a benchmark of general agent capability. A click demo does not establish complete accessibility or security coverage.
+
 A tiny interactive demo page built by the web-team. The page is a single HTML document (`index.html`) with a linked stylesheet (`style.css`) and script (`app.js`), all working together to demonstrate simple DOM interactions.
 
 ## Features
